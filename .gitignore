@@ -1,0 +1,10 @@
+# Arquivos sensíveis
+credenciais.json
+mapping.json
+*.ico
+
+# Build / distribuição
+dist/
+build/
+*.exe
+*.spec
