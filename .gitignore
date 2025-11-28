@@ -1,10 +1,19 @@
-# Arquivos sensíveis
-credenciais.json
-mapping.json
-*.ico
+# Python
+__pycache__/
+*.pyc
 
-# Build / distribuição
-dist/
+# Ambiente virtual
+env/
+venv/
+
+# Arquivos secretos
+.env
+*.env
+segredos/
+
+# Arquivos do Windows
+Thumbs.db
+
+# Pastas de build
 build/
-*.exe
-*.spec
+dist/
