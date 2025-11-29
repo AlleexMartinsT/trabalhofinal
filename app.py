@@ -1,11 +1,3 @@
-# app_simplified.py
-# -----------------------------------------------------------
-# Sistema de rastreamento simples feito em Flask + TinyDB.
-# Aqui eu simulo várias Lambdas da AWS e até um SNS.
-# Esse é o trabalho da facul, então deixei tudo simples, direto
-# e comentado do jeito que um aluno explicaria.
-# -----------------------------------------------------------
-
 import os
 import datetime
 import uuid
